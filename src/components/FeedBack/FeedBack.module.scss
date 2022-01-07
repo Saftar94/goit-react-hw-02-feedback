@@ -1,0 +1,18 @@
+.Button {
+  background-color: rgb(26, 172, 240);
+  width: 100px;
+  height: 30px;
+  margin-left: 20px;
+  border-radius: 10px;
+  border: 0;
+}
+
+.Button:hover {
+  background-color: #45ce06;
+}
+
+.List {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
